@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601914202 source:c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\lista_linear_triangulos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"listalinear.h"
+	"triangulo.h"
+
+1601877946 c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\lista_linear_triangulos\listalinear.h
+
+1601877938 c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\lista_linear_triangulos\triangulo.h
+	<math.h>
+

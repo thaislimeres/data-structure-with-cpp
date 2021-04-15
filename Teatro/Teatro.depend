@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598930785 source:c:\users\thais\documents\ads\3º ciclo\estrutura de dados\teatro\teatro\main.cpp
+	<iostream>
+	<stdlib.h>
+	"teatro.h"
+
+1598930866 c:\users\thais\documents\ads\3º ciclo\estrutura de dados\teatro\teatro\teatro.h
+
+1598931342 source:c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\teatro\main.cpp
+	<iostream>
+	<stdlib.h>
+	"teatro.h"
+
+1598930866 c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\teatro\teatro.h
+

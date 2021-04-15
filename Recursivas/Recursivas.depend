@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604450732 source:c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\recursivas\main.cpp
+	<iostream>
+	<stdlib.h>
+	"recursiva.h"
+
+1606776080 c:\users\thais\documents\ads\3º ciclo\estrutura de dados\projetos\recursivas\recursiva.h
+	<iostream>
+	<stdlib.h>
+
